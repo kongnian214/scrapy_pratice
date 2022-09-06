@@ -1,0 +1,4 @@
+scrapy
+selenium==3.141.0
+openpyxl
+pymysql
